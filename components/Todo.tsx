@@ -3,7 +3,7 @@ import CardHeader from './CardHeader'
 
 const Todo = () => {
   return (
-    <div>
+    <div className="w-full">
       <CardHeader title='Todos' dotColor="bg-white"/>
     </div>
   )

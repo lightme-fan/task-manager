@@ -3,7 +3,7 @@ import CardHeader from './CardHeader'
 
 const InReview = () => {
   return (
-    <div>
+    <div className="w-full">
       <CardHeader title='In Review' dotColor="bg-[#B388F3]"/>
     </div>
   )
